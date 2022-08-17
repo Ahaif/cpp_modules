@@ -12,6 +12,6 @@ This Project contains 8 modules each one of them introduce a new Things in C++ (
  - Module 08: templated containers, iterators and algorithms in CPP 
 
 ⚙️ Compilation
-NOTE: All Exercises has there own Makefile so you can compile them using make.
-NOTE 2 : Exercises of Module 08 has no Makefile so you need to compile the using the following command: clang++ *.cpp or g++ *.cpp
+- NOTE: All Exercises has there own Makefile so you can compile them using make.
+- NOTE 2 : Exercises of Module 08 has no Makefile so you need to compile the using the following command: clang++ *.cpp or g++ *.cpp
 
