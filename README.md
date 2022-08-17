@@ -1,5 +1,5 @@
 # CPP_Modules
-This Project contains 8 modules every one of the 8 Modules designed To help me discover new Things in C++ (Object Oriented Programming).
+This Project contains 8 modules each one of them introduce a new Things in C++ (Object Oriented Programming).
 
  - Module 00: introduction to OOP 
  - Module 01: Memory allocation, reference, pointers to members and the usage of the switch in CPP
